@@ -2,3 +2,20 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+
+body {
+    background-color: blue;
+}
+
+.btn-info {
+    background-color: brown;
+}
+
+.btn-success {
+    background-color: brown;
+}
+
+.card {
+    width: 375px;
+    border: 2px solid black;   
+}
